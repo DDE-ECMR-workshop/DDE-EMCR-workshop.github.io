@@ -1,0 +1,15 @@
+# Site navigation links
+- title: Schedule
+  url: /schedule/
+  excerpt:
+  image:
+
+- title: Location
+  url: /location/
+  excerpt:
+  image:
+
+- title: Resources
+  url: /external/
+  excerpt:
+  image:
