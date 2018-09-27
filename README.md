@@ -1,4 +1,4 @@
-# [Early and Middle-Career Researcher Professional Development Workshop Website](DDE-EMCR-workshop.github.io)
+# [Early and Middle-Career Researcher Professional Development Workshop Website](https://DDE-EMCR-workshop.github.io)
 
 
 ## License
