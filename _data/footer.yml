@@ -1,9 +1,18 @@
 # Footer navigation links
 
+- title: Schedule
+  url: /schedule/
+
+- title: Location
+  url: /location/
+
+- title: Resources
+  url: /external/
+
 - title: Code of Conduct
   url: /code-of-conduct/
 
-- title: Diversity Statement
+- title: Diversity
   url: /diversity/
 
 - title: Licence

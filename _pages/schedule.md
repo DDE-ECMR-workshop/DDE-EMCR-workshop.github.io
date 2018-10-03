@@ -9,7 +9,7 @@ The day will have four sections, each of which is planned to build upon the disc
 
 ### Retrospective, Perspective, Prospective: Where to From Here?
 
-The first session of the day will give you an opportunity to assess your values and priorities, retrospectively examine your path so far, and envisage what you want your future to look like. You'll consider some optimistic professional and personal aspirations and integrate these into a (flexible, potentially non-linear) roadmap going forward. You'll identify the major hurdles and hindrances which could stop you from achieving these milestones, and some potential strategies to capitalise on your strengths to overcome them. Overall, the session should provide you with some useful perspective for prioritising your career development activities as an ECMR, and form the basis for further discussions later in the day.
+The first session of the day will give you an opportunity to assess your values and priorities, retrospectively examine your path so far, and envisage what you want your future to look like. You'll consider some optimistic professional and personal aspirations and integrate these into a (flexible, potentially non-linear) roadmap going forward. You'll identify the major hurdles and hindrances which could stop you from achieving these milestones, and some potential strategies to capitalise on your strengths to overcome them. Overall, the session should provide you with some useful perspective for prioritising your career development activities as an EMCR, and form the basis for further discussions later in the day.
 
 ### Panel Session
 
