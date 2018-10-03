@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: "EMCR Workshop @ DDE"
+title: "Planning Sustainable Careers\n DDE EMCR Workshop"
 description: "Early to middle career professional development workshop focused on sustainable careers, career fulfilment and pathways."
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
-url: 
+url:
 feed:
   path: atom.xml
 
@@ -23,22 +23,22 @@ gems:
   - jekyll-gist
   - jekyll-feed
 
-
 # Site owner
 owner:
-  name:
+  name: Morgan Williams
   email:
-  twitter:
+  twitter: metasomite
   google:
     ad-client:
     ad-slot:
   bio:
-  avatar: bio-photo.jpg # 160x160 px image for author byline
+  avatar: #bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname:
 
 include:
   - .htaccess
   - _pages
+  - _authors
 exclude:
   - "*.less"
   - "*.sublime-project"
@@ -51,7 +51,6 @@ exclude:
   - Capfile
   - Gemfile
   - Gruntfile.js
-  - LICENSE
   - README.md
   - Rakefile
   - config

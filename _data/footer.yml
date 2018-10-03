@@ -1,4 +1,10 @@
 # Footer navigation links
 
-- title:
-  url:
+- title: Code of Conduct
+  url: /code-of-conduct/
+
+- title: Diversity Statement
+  url: /diversity/
+
+- title: Licence
+  url: /license/
