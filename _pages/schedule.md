@@ -5,18 +5,32 @@ title:
 share: false
 ---
 
-The day will have four sections, each of which is planned to build upon the discussions and activities of the last. The morning begins with where you are now, and throughout the afternoon we hope you'll gain further perspective and strategies to make the most of your career journey.
+The day will have four sections, each of which is planned to build upon the discussions and activities of the last. The morning begins with where you are now, and throughout the afternoon we hope you'll gain further perspective and strategies to make the most of your career journey. The planned schedule is added below.
 
-| Time | Agenda |
-| ---- | ------ |
-|  9:00 -  9:30 | Introductions and Icebreaker |
-|  9:30 - 10:30 | Retrospective, Perspective, Prospective: Where to From Here? |
-| 10:30 - 11:00 | Morning Tea |
-| 11:00 - 12:30 | Panel Session |
-| 12:30 - 13:30 | Lunch |
-| 13:30 - 15:00 | Mentoring Session |
-| 15:00 - 15:30 | Afternoon Tea |
-| 15:30 - 16:00 | Building on Community |
+| Start | End       | Agenda |
+| ----: |:----  | ------ |
+| 09:00 | 09:30 | Introductions and Icebreaker |
+| 09:30 | 10:30 | [Retrospective, Perspective, Prospective: Where to From Here?](#retrospective-perspective-prospective-where-to-from-here) |
+| 10:30 | 11:00 | *Morning Tea* |
+| 11:00 | 12:30 | [Panel Session](#panel-session) |
+| 12:30 | 13:30 | *Lunch* |
+| 13:30 | 15:00 | [Mentoring Session](#mentoring-session) |
+| 15:00 | 15:30 | *Afternoon Tea* |
+| 15:30 | 16:00 | [Building on Community](#building-on-community) |
+
+**Note:** In case of low numbers, the schedule may be adjusted to minimise conflict other morning workshops. The adjusted schedule would run from lunchtime through to the end of the day. The mentoring session could be run over lunch, to be followed by the planned morning activities and panel session.
+{: .notice}
+<!--
+| Start | End       | Agenda |
+| ----: |:----  | ------ |
+| 12:30 | 13:30 | *Lunch* & Meeting Mentors |
+| 13:30 | 14:00 | Introductions and Icebreaker |
+| 14:00 | 15:00 | [Retrospective, Perspective, Prospective: Where to From Here?](#retrospective-perspective-prospective-where-to-from-here) |
+| 15:00 | 15:30 | *Afternoon Tea* |
+| 15:30 | 16:30 | [Panel Session](#panel-session) |
+| 16:30 | 17:00 | [Building on Community](#building-on-community) |
+{: .notice}
+-->
 
 ### Retrospective, Perspective, Prospective: Where to From Here?
 
@@ -24,7 +38,7 @@ The first session of the day will give you an opportunity to assess your values 
 
 ### Panel Session
 
-After envisioning your own career trajectory, you'll hear from a number of panellists discussing their own. Our panellists will discuss their careers so far, and provide a short retrospective assessment of some of the drivers and motivations behind the paths taken and decisions made. The latter half of this session will involve a Q/A and directed discussion around a number of topics including (but certainly not limited to):
+After envisioning your own career trajectory, you'll hear from a number of panellists discussing their own. Our panellists will discuss their careers so far, and provide a short retrospective assessment of some of the drivers and motivations behind the paths taken and decisions made. The latter half of this session will involve a Q/A and directed discussion around a number of topics including:
 
 * Integrating your values into your career planning
 * Career challenges, sidesteps and interruptions
