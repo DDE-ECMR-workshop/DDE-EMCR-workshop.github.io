@@ -7,6 +7,17 @@ share: false
 
 The day will have four sections, each of which is planned to build upon the discussions and activities of the last. The morning begins with where you are now, and throughout the afternoon we hope you'll gain further perspective and strategies to make the most of your career journey.
 
+| Time | Agenda |
+| ---- | ------ |
+|  9:00 -  9:30 | Introductions and Icebreaker |
+|  9:30 - 10:30 | Retrospective, Perspective, Prospective: Where to From Here? |
+| 10:30 - 11:00 | Morning Tea |
+| 11:00 - 12:30 | Panel Session |
+| 12:30 - 13:30 | Lunch |
+| 13:30 - 15:00 | Mentoring Session |
+| 15:00 - 15:30 | Afternoon Tea |
+| 15:30 - 16:00 | Building on Community |
+
 ### Retrospective, Perspective, Prospective: Where to From Here?
 
 The first session of the day will give you an opportunity to assess your values and priorities, retrospectively examine your path so far, and envisage what you want your future to look like. You'll consider some optimistic professional and personal aspirations and integrate these into a (flexible, potentially non-linear) roadmap going forward. You'll identify the major hurdles and hindrances which could stop you from achieving these milestones, and some potential strategies to capitalise on your strengths to overcome them. Overall, the session should provide you with some useful perspective for prioritising your career development activities as an EMCR, and form the basis for further discussions later in the day.
