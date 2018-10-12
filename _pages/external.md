@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: media
 permalink: /external/
 title: "External Resources"
 share: true
