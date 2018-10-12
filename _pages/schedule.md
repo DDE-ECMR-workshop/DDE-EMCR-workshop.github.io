@@ -52,4 +52,6 @@ After envisioning your own career trajectory, you'll hear from a number of panel
 
 ### Building on Community
 
-The last part of the afternoon will involve identifying opportunities to build local EMCR communities. This will be entirely driven by participants (although some mentors and panellists may decide to join us), and may focus on identifying 'low hanging fruit' with regards to barriers to entry or unnecessary gatekeeping, organising local events or simply unpacking the themes of the discussion throughout the day. The organisers of this workshop hope to build it into something larger in the coming year, and if you have any feedback (positive or otherwise) or would like to get involved on that front, we'd love to hear it.
+The last part of the afternoon will involve identifying opportunities to build local EMCR communities. This will be entirely driven by participants (although some mentors and panellists may decide to join us), and may focus on identifying 'low hanging fruit' with regards to barriers to entry or unnecessary gatekeeping, organising local events or simply unpacking the themes of the discussion throughout the day.
+
+The organisers of this workshop hope to build it into something larger in the coming year (and are in the process of writing grant proposals), and if you have any feedback (positive or otherwise) or would like to get involved on that front, we'd love to hear it.
