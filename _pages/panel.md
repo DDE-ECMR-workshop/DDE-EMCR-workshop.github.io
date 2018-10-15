@@ -1,7 +1,7 @@
 ---
 layout: media
 permalink: /panel/
-title: Panel
+title:
 share: false
 ---
 
