@@ -8,7 +8,14 @@ share: true
 
 ### [Stanford Life Design Lab](http://lifedesignlab.stanford.edu/)
 
-Bill Burnett and Dave Evans of the Stanford Life Design Lab teach a design course centred around designing a fulfilling career. We've taken some of the ideas for this workshop from their book 'Designing Your Life'. They also have a number of [free online resources](https://lifedesignlab.stanford.edu/resources), including this one on reframing networking:
+Bill Burnett and Dave Evans of the Stanford Life Design Lab teach a design course centred around designing a fulfilling career. We've taken some of the ideas for this workshop from their book 'Designing Your Life', which are also presented here:
+
+<div class="fluid-width-video-wrapper" style="padding-top: 56.25%;">
+<iframe src="//www.youtube.com/embed/SemHh0n19LA" frameborder="0">
+</iframe>
+</div>
+
+They also have a number of [free online resources](https://lifedesignlab.stanford.edu/resources), including this one on reframing networking:
 
 <div class="fluid-width-video-wrapper" style="padding-top: 56.25%;">
 <iframe src="//www.youtube.com/embed/videoseries?index=2&list=PLjwFGCpXfsbcwkoYlMtonFbC7qmxqNovT" frameborder="0">
@@ -47,7 +54,7 @@ You can [read more](https://www.gsb.stanford.edu/insights/sheryl-sandberg-develo
 
 ### 80,000 Hours
 
-The following two videos are sourced from [80,000 Hours](https://80000hours.org/), an organisation which is part of the Centre for Effective Altruism and affiliated with the University of Oxford's Future of Humanity Institute and the Oxford Uehiro Centre for Practical Ethics.
+The following two videos are sourced from [80,000 Hours](https://80000hours.org/), an organisation focused on helping people across the world find worthwhile, effective and productive career paths. 80,000 Hours is part of the Centre for Effective Altruism and affiliated with the University of Oxford's Future of Humanity Institute and the Oxford Uehiro Centre for Practical Ethics; you may find these useful if you identify with these concepts.
 
 What makes a dream job?
 <div class="fluid-width-video-wrapper" style="padding-top: 56.25%;">
