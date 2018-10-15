@@ -10,9 +10,9 @@ img {
     height: 180px;}
 </style>
 
-<img src="../images/bio-photo.jpg" alt="Cici" style="float: right; margin: 0px 0px 0px 50px;"/>
+<img src="../images/cici.jpg" alt="Cici" style="float: right; margin: 0px 0px 0px 50px;"/>
 
-### Cericia (Cici) Martinez 
+### Cericia (Cici) Martinez
 
 Cici is a postdoc working with CSIRO Mineral Resources within the Deep Earth Imaging Future Science Platform.
 
