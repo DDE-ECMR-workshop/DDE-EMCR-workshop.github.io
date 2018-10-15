@@ -18,5 +18,7 @@ This workshop follows four days of analysing, predicting and facilitating disrup
 > “In preparing for battle I have always found that plans are useless, but planning is indispensable”  
 >  &mdash; <cite>Dwight D. "Ike" Eisenhower</cite>
 
+> “Destitutus ventis, remos adhibe.”
+
 **Note:** The organisers of this workshop are ECMRs themselves. We've noted a specific gap in the types of workshops we've attended in the past (most practical, some useful), and we envisaged this workshop. We will provide you with useful exercises, productive discussion and a bit of time to think around planning for modern careers. We've lined up a number of interesting and enthusiastic panellists and mentors to help provide the perspective and insight which comes with experience. We want this to be a positive and productive experience for you, and hope you're eager to get involved in these discussions and make the most of the workshop.
 {: .notice}

@@ -9,12 +9,17 @@
   excerpt:
   image:
 
+- title: Panel
+  url: /panel/
+  excerpt:
+  image:
+
 - title: Resources
   url: /external/
   excerpt:
   image:
 
-#- title: Organisers
-#  url: /organisers/
-#  excerpt:
-#  image:
+- title: Organisers
+  url: /organisers/
+  excerpt:
+  image:
