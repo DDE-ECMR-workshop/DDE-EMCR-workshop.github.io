@@ -35,3 +35,5 @@ One day he'll build a log cabin.
 ### Lara Bereza-Malcolm <a href="https://twitter.com/LBerezaMalcolm"><i class="fa fa-twitter" aria-hidden="true"></i></a>
 
 <img src="../images/lara.jpg" alt="Lara"/>
+
+Lara is the Henry Langley Fellow at the University of Sydney and based at the Kolling Institute of Medical Research. Her work is focused on Rheumatoid Arthritis and she is part of the Australian Arthritis and Autoimmune Biobank Initiative. In her free time, she likes to read, drink coffee and eat sushi. Her goal for 2019 is to complete a 42 km walking marathon.
