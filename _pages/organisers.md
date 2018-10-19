@@ -15,9 +15,9 @@ img {
 
 ### Cericia (Cici) Martinez
 
-<img src="../images/cici.jpg" alt="Cici"/>
+<img src="../images/cici.JPG" alt="Cici"/>
 
-Cici is a postdoc working with CSIRO Mineral Resources within the Deep Earth Imaging Future Science Platform.
+Cici is a geophysics postdoc in the Deep Earth Imaging Future Science Platform. She is curious about the non-science bits that make working as a researcher so enjoyable. Her favorite past-time is eating chips and salsa. Also drinking coffee.
 
 Ask her about [Tingles](https://en.wikipedia.org/wiki/Eucalyptus_jacksonii).
 
