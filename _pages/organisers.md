@@ -17,7 +17,7 @@ img {
 
 <img src="../images/cici.jpg" alt="Cici"/>
 
-Cici is a postdoc working with CSIRO Mineral Resources within the Deep Earth Imaging Future Science Platform.
+Cici is a geophysics postdoc in the Deep Earth Imaging Future Science Platform. She 
 
 Ask her about [Tingles](https://en.wikipedia.org/wiki/Eucalyptus_jacksonii).
 
