@@ -29,3 +29,6 @@ Ignacio did his BSc. and MSc. specializing on stratigraphy and basin analysis at
 ### Dr. Anais Pages
 
 <img src="../images/anais.jpg" alt="Anais"/>
+
+Anais Pages is originally from France where she undertook her undergraduate studies in Earth & Marine Sciences. She then undertook a Msc in Environmental Sciences between France, the UK and Australia. She completed her PhD at Curtin University in the field of geochemistry and Astrobiology, and currently works at CSIRO Mineral resources, as part of the Sedimentary Basins team. She had the chance to participate in the 2017 Homeward Bound program, an intensive leadership training for Women in Science, culminating with a 3 weeks voyage in Antarctica. Anais is strongly involved in mentoring and science outreach programs.
+
