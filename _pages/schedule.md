@@ -25,7 +25,7 @@ The day will have four sections, each of which is planned to build upon the disc
 | ----: |:----  | ------ |
 | 12:30 | 13:30 | *Lunch* & Meeting Mentors |
 | 13:30 | 13:45 | Introductions and Welcome |
-| 13:45 | 15:00 | [Retrospective, Perspective, Prospective: Where to From Here?](#retrospective-perspective-prospective-where-to-from-here) |
+| 13:45 | 15:15 | [Retrospective, Perspective, Prospective: Where to From Here?](#retrospective-perspective-prospective-where-to-from-here) |
 | 15:15 | 15:45 | *Afternoon Tea* |
 | 15:45 | 16:45 | [Panel Session](#panel-session) |
 | 16:45 | 17:00 | [Building on Community](#building-on-community) |
