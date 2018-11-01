@@ -5,6 +5,9 @@ title: "External Resources"
 share: true
 ---
 
+### A Transition Within a Transition
+
+Dr. Sophie Hancock, one of our [panellists](../panel) for this workshop, recently wrote an article for the [Society of Economic Geologists](https://www.segweb.org/) Newsletter titled "A Transition Within a Transition: Challenges Facing Many Young Geoscientists", and has kindly provided [a copy for us to upload **here**](../docs/SEG-Newsletter-112-2018-January_Hancock_SEG perspectives.pdf). In the article Sophie shares thoughts and advice on career sustainability, and career strategies for retention of diversity, including through the parenthood years.
 
 ### [Stanford Life Design Lab](http://lifedesignlab.stanford.edu/)
 
