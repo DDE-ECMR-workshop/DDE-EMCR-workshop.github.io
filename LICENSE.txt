@@ -1,6 +1,8 @@
 Website Theme: 'Skinny Bones' Copyright (c) 2014 Michael Rose, MIT License
 
-Workshop Material and Content: CC-BY-4.0
+Workshop Material and Content: CC-BY-4.0 except where otherwise stated.
+
+External Content (e.g. videos, pdfs): See Per Original Sources
 
 Attribution 4.0 International
 
